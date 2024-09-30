@@ -39,7 +39,8 @@ By default, the program uses the soft hyphen character (U+00AD).
 ## License
 
 The project is dual-licensed under the Apache License 2.0 and CC-BY 4.0. See
-[LICENSE.md](./LICENSE.md).
+[LICENSE.md](./LICENSE.md). Note that this repository embeds Pyphen which is
+tri-licensed under the GPL 2.0+, LGPL 2.1+ and MPL 1.1.
 
 ## Acknowledgments
 
